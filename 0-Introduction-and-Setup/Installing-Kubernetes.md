@@ -1,7 +1,7 @@
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/64fdb0f1-a82e-4c18-a4be-c11fa0f9bac4" />
-# INSTALLING KUBERNETES
 
-![Installing Kubernetes Title Slide](img/05-SLIDES-Container-Security-with-Kubernetes-and-Gitlab_INSTALLING-KUBERNETES_05242024.001.png)
+**# INSTALLING KUBERNETES**
+
 
 You can use the scripts, in order, or you can use the below written instructions for a more human-readable and verbose script:
 1. [Initialize The Kubernetes Cluster](initializing-k8s-cluster.sh)
