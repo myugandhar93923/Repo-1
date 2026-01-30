@@ -11,6 +11,7 @@ You can use the scripts, in order, or you can use the below written instructions
 
 ```bash
 # update packages in apt package manager
+# update packages
 sudo apt update
 
 # install containerd using the apt package manager
